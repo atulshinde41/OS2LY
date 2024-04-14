@@ -1,0 +1,2 @@
+platter->track->sector->blocks->bytes->bits 
+magnetic concentratic coated circle
